@@ -1,0 +1,30 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9E2B-825A
+
+ Directory of C:\Users\admin\Desktop\MANUAL TESTING
+
+28/12/2021  05:16 PM    <DIR>          .
+28/12/2021  05:16 PM    <DIR>          ..
+23/12/2021  02:12 PM           297,027 bd563fb3-6421-41f3-98c7-db8799f5657a_Syllabus_of_Selenium_with_Java.pdf
+23/12/2021  02:12 PM           791,628 CTFL 2018 Sample Exam A v1.6 Answers.pdf
+23/12/2021  02:12 PM           738,330 CTFL 2018 Sample Exam A v1.6 Questions.pdf
+23/12/2021  02:12 PM           441,298 CTFL 2018 Sample Exam B v1.3 Answers.pdf
+23/12/2021  02:12 PM           346,880 CTFL 2018 Sample Exam B v1.3 Questions.pdf
+23/12/2021  02:12 PM           360,384 CTFL 2018 Sample Exam C v1.2 Answers.pdf
+23/12/2021  02:12 PM           337,382 CTFL 2018 Sample Exam C v1.2 Questions.pdf
+23/12/2021  02:12 PM           290,091 CTFL-2018-Accreditation-Guidelines-Evaluation.pdf
+23/12/2021  02:12 PM           331,128 CTFL-2018-Course-Timing-Information.pdf
+23/12/2021  02:12 PM           831,065 CTFL-2018-Syllabus-2018-Overview.pdf
+23/12/2021  02:12 PM           746,849 CTFL-AuT 2018 Sample Exam A v2.1 Answers.pdf
+23/12/2021  02:12 PM           670,661 CTFL-AuT 2018 Sample Exam A v2.1 Questions.pdf
+23/12/2021  02:12 PM           155,009 CTFL-AuT_Overview_2018.pdf
+23/12/2021  02:12 PM           443,825 CTFL-AuT_Syllabus_2018.pdf
+23/12/2021  02:12 PM            92,341 CTFL_AuT_AccreditationGuidelines20.pdf
+23/12/2021  02:12 PM            95,638 ISTQB-CTFL_Release-Notes_2018_V3.1.pdf
+23/12/2021  02:12 PM         1,176,690 ISTQB-CTFL_Syllabus_2018_V3.1.pdf
+23/12/2021  02:13 PM        40,254,827 Java 8 The Complete Reference Ninth Edition.pdf
+28/12/2021  05:09 PM            11,496 lession Plan.xlsx
+25/12/2021  04:42 PM           970,710 Manual Testing Notes.docx
+28/12/2021  05:16 PM                 0 tets.txt
+              21 File(s)     49,383,259 bytes
+               2 Dir(s)  102,299,250,688 bytes free
